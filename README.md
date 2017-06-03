@@ -18,7 +18,7 @@ Connect to your PrestaShop BackOffice, Upload the zip file from `Modules and Ser
 
 ## Support or Contact
 
-Having trouble or idea with Bitcoin HD? [contact support](https://www.motionseed.com/en/contact-us) and we’ll help you sort it out.
+Having trouble with the module? [contact support](https://www.motionseed.com/en/contact-us) and we’ll help you sort it out.
 
 
 :thumbsup: We do our best to provide you quality modules, Participate to this effort, here our Bitcoin Address :
