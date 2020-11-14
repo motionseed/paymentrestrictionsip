@@ -21,10 +21,6 @@ Connect to your PrestaShop BackOffice, Upload the zip file from `Modules and Ser
 Having trouble with the module? [contact support](https://www.motionseed.com/en/contact-us) and we’ll help you sort it out.
 
 
-:thumbsup: We do our best to provide you quality modules, **Participate to this effort**, here our Bitcoin Address :
-> `1NXSkSNXYBVSsdf6sZ9P2quEkgvxfVjYF1`
-
-
 ## License
 
 The module is free to use for Commercial and Non-Commercial websites. Please read the license of the module :
